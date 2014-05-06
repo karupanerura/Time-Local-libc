@@ -1,0 +1,4 @@
+name = "Time-Local-libc"
+# badges = ["travis"]
+authority="cpan:KARUPA"
+
